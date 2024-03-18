@@ -1,0 +1,60 @@
+{
+  "profesores": [
+    {
+      "nombre": "Franco",
+      "apellido": "Figueroa",
+      "materias": [
+        {
+          "nombre": "Computo y Presupuesto"
+        },
+        {
+          "nombre": "Electricidad"
+        },
+        {
+          "nombre": "Programacion orientada a objetos"
+        }
+      ],
+      "id": "36c3"
+    }
+  ],
+  "alumnos": [
+    {
+      "nombre": "Laura",
+      "apellido": "Cuenca",
+      "promedio": 8,
+      "id": "2822"
+    },
+    {
+      "nombre": "Valentin",
+      "apellido": "Ayos",
+      "promedio": 9,
+      "id": "ba45"
+    },
+    {
+      "nombre": "Benjamin",
+      "apellido": "Sucre",
+      "promedio": 9.5,
+      "id": "3fa2"
+    }
+  ],
+  "cursos": [
+    {
+      "nombre": "Computo y Presupuesto",
+      "horas": 5,
+      "dificultad": "media",
+      "id": "54d6"
+    },
+    {
+      "nombre": "Electricidad",
+      "horas": 7,
+      "dificultad": "alta",
+      "id": "48e4"
+    },
+    {
+      "nombre": "Programacion",
+      "horas": 8,
+      "dificultad": "baja",
+      "id": "74e8"
+    }
+  ]
+}
